@@ -73,13 +73,9 @@ SD=np.sqrt(var)
 print("The Mean arrival rate is %.3f "%mean)
 print("The Variance of arrival from feeder is %.3f "%var)
 ```
-# OUTPUT: 
 
 ![image](https://github.com/shalinikannan23/Mean-and-Variance/assets/118656529/c2292985-b1c1-4ed8-b325-26a5d0644fd3)
 
-# RESULT:
-
-The mean and variance of arrivals of objects from feeder using probability distribution is calculated
 
 
 
